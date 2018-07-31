@@ -1,5 +1,8 @@
 # promo-audio-scrapper-example
 
+This is API that searches [Promo video collection](https://slide.ly/promo/create?mode=search&keyword=fun&sort_order=most_popular) 
+takes first of found videos, extracts audio, converts it to mp3 and exposes it for download. 
+
 ## Endpoint
 
 ```text
